@@ -1,0 +1,3 @@
+# 虚拟机 Python 依赖（在运行 spark-submit 前 pip install）
+jieba==0.42.1
+pandas==1.5.3
